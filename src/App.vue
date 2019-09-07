@@ -6,7 +6,8 @@
 </template>
 
 <script>
-import Test from './components/Test.vue'
+// import Test from './components/Test.vue'
+import Test from './components/TestList.vue'
 
 export default {
   name: 'app',
